@@ -3,7 +3,7 @@ visual exploration of ABySS assembly data
 
 Written by [Ka Ming Nip](mailto:kmnip@bcgsc.ca)
 
-Copyright 2011 Canada's Michael Smith Genome Sciences Centre, BC Cancer
+Copyright 2011 BC Cancer
 
 -------------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ These libraries are already included in the compiled package.
 
 ## Installation :wrench:
 
-1. Download the binary tarball `ABySS-explorer-X.X.X.tar.gz` from the [releases](https://github.com/bcgsc/ABySS-explorer/releases) section.
+1. Download the binary tarball `ABySS-explorer-X.X.X.tar.gz` from the [releases](https://github.com/BirolLab/ABySS-explorer/releases) section.
 2. Extract the downloaded tarball with the command:
 ```
 tar -zxf ABySS-explorer-X.X.X.tar.gz
